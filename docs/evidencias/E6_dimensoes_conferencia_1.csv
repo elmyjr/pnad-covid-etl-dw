@@ -1,0 +1,18 @@
+id_log,no_processo,ds_referencia,lidas,gravadas,st_execucao,duracao_s,ds_observacao
+4,usp_carregar_dim_tempo,2020-05,1,1,SUCESSO,0,1 mes(es) no espelho; 1 novo(s); 1 linha(s) na dim_tempo
+5,usp_carregar_dim_municipio,2020-05,53,53,SUCESSO,0,53 par(es) UF/capital no espelho; 53 novo(s); 53 linha(s) na dim_municipio
+6,usp_carregar_dim_pessoa,2020-05,1788,1788,SUCESSO,1,1788 perfil(is) distinto(s) no espelho; 1788 novo(s); 1788 linha(s) na dim_pessoa
+7,usp_carregar_dim_pessoa,2020-05,1788,0,SUCESSO,0,1788 perfil(is) distinto(s) no espelho; 0 novo(s); 1788 linha(s) na dim_pessoa
+8,usp_carregar_dim_tempo,2020-05,1,0,SUCESSO,0,1 mes(es) no espelho; 0 novo(s); 1 linha(s) na dim_tempo
+9,usp_carregar_dim_tempo,2020-05,1,0,SUCESSO,0,1 mes(es) no espelho; 0 novo(s); 1 linha(s) na dim_tempo
+10,usp_carregar_dim_municipio,2020-05,53,0,SUCESSO,0,53 par(es) UF/capital no espelho; 0 novo(s); 53 linha(s) na dim_municipio
+11,usp_carregar_dim_pessoa,2020-05,1788,0,SUCESSO,0,1788 perfil(is) distinto(s) no espelho; 0 novo(s); 1788 linha(s) na dim_pessoa
+12,usp_carregar_dim_tempo,2020-05,1,0,SUCESSO,0,1 mes(es) no espelho; 0 novo(s); 1 linha(s) na dim_tempo
+13,usp_carregar_dim_municipio,2020-05,53,0,SUCESSO,0,53 par(es) UF/capital no espelho; 0 novo(s); 53 linha(s) na dim_municipio
+14,usp_carregar_dim_pessoa,2020-05,1788,0,SUCESSO,1,1788 perfil(is) distinto(s) no espelho; 0 novo(s); 1788 linha(s) na dim_pessoa
+15,usp_carregar_dim_tempo,2020-05,1,0,SUCESSO,0,1 mes(es) no espelho; 0 novo(s); 1 linha(s) na dim_tempo
+16,usp_carregar_dim_municipio,2020-05,53,0,SUCESSO,0,53 par(es) UF/capital no espelho; 0 novo(s); 53 linha(s) na dim_municipio
+17,usp_carregar_dim_pessoa,2020-05,1788,0,SUCESSO,0,1788 perfil(is) distinto(s) no espelho; 0 novo(s); 1788 linha(s) na dim_pessoa
+18,usp_carregar_dim_tempo,2020-05,1,0,SUCESSO,0,1 mes(es) no espelho; 0 novo(s); 1 linha(s) na dim_tempo
+19,usp_carregar_dim_municipio,2020-05,53,0,SUCESSO,0,53 par(es) UF/capital no espelho; 0 novo(s); 53 linha(s) na dim_municipio
+20,usp_carregar_dim_pessoa,2020-05,1788,0,SUCESSO,1,1788 perfil(is) distinto(s) no espelho; 0 novo(s); 1788 linha(s) na dim_pessoa

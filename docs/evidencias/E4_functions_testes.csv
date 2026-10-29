@@ -1,0 +1,66 @@
+id,funcao,entrada,resultado,status
+1,fn_remover_espacos,'  Rio   de    Janeiro  ',Rio de Janeiro,OK
+2,fn_remover_espacos,NULL,NULL,OK
+3,fn_remover_acentos,São Luís - João,Sao Luis - Joao,OK
+4,fn_remover_acentos,"GOIÂNIA, MACEIÓ","GOIANIA, MACEIO",OK
+5,fn_title_case,RIO DE JANEIRO,Rio de Janeiro,OK
+6,fn_title_case,mato grosso do sul,Mato Grosso do Sul,OK
+7,fn_title_case,de souza e silva,De Souza e Silva,OK
+8,fn_normalizar_texto,' joão   PESSOA ',Joao Pessoa,OK
+9,fn_normalizar_texto,NULL,NULL,OK
+10,fn_uf_nome,35,São Paulo,OK
+11,fn_uf_nome,53,Distrito Federal,OK
+12,fn_uf_nome,NULL,Não aplicável,OK
+13,fn_uf_nome,99,Não informado,OK
+14,fn_uf_sigla,11,RO,OK
+15,fn_uf_sigla,53,DF,OK
+16,fn_uf_sigla,NULL,NA,OK
+17,fn_uf_sigla,99,NI,OK
+18,fn_municipio_nome,21,São Luís,OK
+19,fn_municipio_nome,33,Rio de Janeiro,OK
+20,fn_municipio_nome,NULL,Demais municípios,OK
+21,fn_municipio_nome,99,Não informado,OK
+22,normalizar(municipio),21,Sao Luis,OK
+23,normalizar(municipio),NULL,Demais Municipios,OK
+24,fn_sexo,1,Homem,OK
+25,fn_sexo,2,Mulher,OK
+26,fn_sexo,NULL,Não aplicável,OK
+27,fn_sexo,3,Não informado,OK
+28,fn_cor_raca,5,Indígena,OK
+29,fn_cor_raca,9,Ignorado,OK
+30,fn_cor_raca,NULL,Não aplicável,OK
+31,fn_cor_raca,7,Não informado,OK
+32,fn_escolaridade,1,Sem instrução,OK
+33,fn_escolaridade,8,"Pós-graduação, mestrado ou doutorado",OK
+34,fn_escolaridade,NULL,Não aplicável,OK
+35,fn_escolaridade,0,Não informado,OK
+36,fn_faixa_etaria,17,Criança/Adolescente,OK
+37,fn_faixa_etaria,18,Jovem Adulto,OK
+38,fn_faixa_etaria,29,Jovem Adulto,OK
+39,fn_faixa_etaria,30,Adulto,OK
+40,fn_faixa_etaria,59,Adulto,OK
+41,fn_faixa_etaria,60,Idoso,OK
+42,fn_faixa_etaria,NULL,Não aplicável,OK
+43,fn_faixa_etaria,-1,Não informado,OK
+44,fn_faixa_etaria,131,Não informado,OK
+45,fn_faixa_rendimento,0,0 - 100,OK
+46,fn_faixa_rendimento,4,801 - 1.600,OK
+47,fn_faixa_rendimento,9,Mais de 100.000,OK
+48,fn_faixa_rendimento,NULL,Não aplicável,OK
+49,fn_faixa_rendimento,10,Não informado,OK
+50,fn_atendimento_sus,1,Sim,OK
+51,fn_atendimento_sus,9,Ignorado,OK
+52,fn_atendimento_sus,NULL,Não aplicável,OK
+53,fn_atendimento_sus,3,Não informado,OK
+54,fn_internado,3,Não foi atendido,OK
+55,fn_internado,9,Ignorado,OK
+56,fn_internado,NULL,Não aplicável,OK
+57,fn_internado,4,Não informado,OK
+58,fn_sintoma,1,Sim,OK
+59,fn_sintoma,3,Não sabe,OK
+60,fn_sintoma,NULL,Não aplicável,OK
+61,fn_sintoma,5,Não informado,OK
+62,fn_nome_mes,3,Março,OK
+63,fn_nome_mes,5,Maio,OK
+64,fn_nome_mes,NULL,Não aplicável,OK
+65,fn_nome_mes,13,Não informado,OK

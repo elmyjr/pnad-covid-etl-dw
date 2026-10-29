@@ -1,0 +1,54 @@
+sk_municipio,co_capital,sg_uf,no_municipio
+47,12,AC,Rio Branco
+9,NULL,AC,Demais Municipios
+40,27,AL,Maceio
+10,NULL,AL,Demais Municipios
+41,13,AM,Manaus
+11,NULL,AM,Demais Municipios
+39,16,AP,Macapa
+12,NULL,AP,Demais Municipios
+49,29,BA,Salvador
+13,NULL,BA,Demais Municipios
+36,23,CE,Fortaleza
+14,NULL,CE,Demais Municipios
+5,53,DF,Brasilia
+53,32,ES,Vitoria
+15,NULL,ES,Demais Municipios
+37,52,GO,Goiania
+16,NULL,GO,Demais Municipios
+50,21,MA,Sao Luis
+17,NULL,MA,Demais Municipios
+3,31,MG,Belo Horizonte
+18,NULL,MG,Demais Municipios
+6,50,MS,Campo Grande
+19,NULL,MS,Demais Municipios
+7,51,MT,Cuiaba
+20,NULL,MT,Demais Municipios
+2,15,PA,Belem
+21,NULL,PA,Demais Municipios
+38,25,PB,Joao Pessoa
+22,NULL,PB,Demais Municipios
+46,26,PE,Recife
+23,NULL,PE,Demais Municipios
+52,22,PI,Teresina
+24,NULL,PI,Demais Municipios
+8,41,PR,Curitiba
+25,NULL,PR,Demais Municipios
+48,33,RJ,Rio de Janeiro
+26,NULL,RJ,Demais Municipios
+42,24,RN,Natal
+27,NULL,RN,Demais Municipios
+45,11,RO,Porto Velho
+28,NULL,RO,Demais Municipios
+4,14,RR,Boa Vista
+29,NULL,RR,Demais Municipios
+44,43,RS,Porto Alegre
+30,NULL,RS,Demais Municipios
+35,42,SC,Florianopolis
+31,NULL,SC,Demais Municipios
+1,28,SE,Aracaju
+32,NULL,SE,Demais Municipios
+51,35,SP,Sao Paulo
+33,NULL,SP,Demais Municipios
+43,17,TO,Palmas
+34,NULL,TO,Demais Municipios

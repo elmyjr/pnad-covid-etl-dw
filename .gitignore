@@ -1,0 +1,26 @@
+# =====================================================================
+# Arquivo  : .gitignore
+# Objetivo : manter fora do Git os dados, as credenciais e os arquivos
+#            locais de ambiente
+# Etapa    : E0 - Ambiente
+# Obs      : a mesma lista vale para o zip da entrega
+# =====================================================================
+
+# CSVs do IBGE (grandes; fonte publica, ver README secao 4)
+data/
+
+# credenciais (o modelo .env.example e versionado)
+.env
+
+# ambiente virtual e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# scripts locais de operacao dos containers (fora da entrega)
+podman/
+
+# arquivos do editor e do sistema
+.vscode/
+Thumbs.db
+desktop.ini

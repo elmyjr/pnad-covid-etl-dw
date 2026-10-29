@@ -1,0 +1,29 @@
+co_capital,sg_uf,nome_mapeado,no_municipio
+11,RO,Porto Velho,Porto Velho
+12,AC,Rio Branco,Rio Branco
+13,AM,Manaus,Manaus
+14,RR,Boa Vista,Boa Vista
+15,PA,Belém,Belem
+16,AP,Macapá,Macapa
+17,TO,Palmas,Palmas
+21,MA,São Luís,Sao Luis
+22,PI,Teresina,Teresina
+23,CE,Fortaleza,Fortaleza
+24,RN,Natal,Natal
+25,PB,João Pessoa,Joao Pessoa
+26,PE,Recife,Recife
+27,AL,Maceió,Maceio
+28,SE,Aracaju,Aracaju
+29,BA,Salvador,Salvador
+31,MG,Belo Horizonte,Belo Horizonte
+32,ES,Vitória,Vitoria
+33,RJ,Rio de Janeiro,Rio de Janeiro
+35,SP,São Paulo,Sao Paulo
+41,PR,Curitiba,Curitiba
+42,SC,Florianópolis,Florianopolis
+43,RS,Porto Alegre,Porto Alegre
+50,MS,Campo Grande,Campo Grande
+51,MT,Cuiabá,Cuiaba
+52,GO,Goiânia,Goiania
+53,DF,Brasília,Brasilia
+NULL,UF,Demais municípios,Demais Municipios
